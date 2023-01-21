@@ -1,0 +1,77 @@
+body{
+    margin:0;
+    padding-top:800px;
+    text-align:center;
+    
+}
+.profile{
+    border-radius:50%;
+    width: 400px;
+    height: 400px;
+
+}
+#welcome{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(blue 0%, rgb(122, 182, 122) 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Great Vibes', cursive;
+
+    font-weight: 300;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+
+    font-weight: 300;
+}
+#name{
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+
+}
+#bio{
+    
+    font-family: 'Great Vibes', cursive;
+
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+.srishty{
+    display: table-cell;
+    vertical-align: middle;
+
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+
+
+}
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+
+}
+
+
+
